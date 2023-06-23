@@ -6,7 +6,6 @@ on:
 
 jobs:
   deploy-to-s3:
-    needs: [lint, test]
     runs-on: ${{ matrix.os }}
 
     strategy:
