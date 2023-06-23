@@ -1,0 +1,6 @@
+<template>
+  <main>
+    <h1 class="text-3xl font-bold underline font-sans">Operating Team</h1>
+  </main>
+</template>
+<script setup lang="ts"></script>

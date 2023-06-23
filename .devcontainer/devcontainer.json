@@ -1,0 +1,25 @@
+{
+  "name": "skku-royals-recruiting",
+  "dockerComposeFile": "./docker-compose.yml",
+  "service": "app",
+  "runServices": ["app"],
+  "workspaceFolder": "/workspace",
+  "postCreateCommand": "./.devcontainer/setup.sh",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "bradlc.vscode-tailwindcss",
+        "csstools.postcss",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "Vue.volar",
+        "Vue.vscode-typescript-vue-plugin"
+      ]
+    }
+  },
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/pnpm:2": {}
+  },
+  // Connect as non-root user (https://code.visualstudio.com/remote/advancedcontainers/add-nonroot-user)
+  "remoteUser": "node"
+}
