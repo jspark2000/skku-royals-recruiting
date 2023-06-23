@@ -43,4 +43,4 @@ jobs:
           aws s3 cp \
             --recursive \
             --region ap-northeast-2 \
-            frontend/survey/dist s3://recruiting.skku-royals.football
+            ./dist s3://recruiting.skku-royals.football
