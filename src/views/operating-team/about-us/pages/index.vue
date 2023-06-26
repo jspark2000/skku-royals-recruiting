@@ -1,13 +1,15 @@
 <template>
   <div
-    class="relative container flex flex-col min-h-screen text-start pt-16 pb-28 max-w-screen-md w-full px-5 mx-auto font-mono"
+    class="relative container text-zinc-600 flex flex-col min-h-screen text-start pt-16 pb-28 max-w-screen-md w-full px-5 mx-auto font-mono"
   >
-    <div class="font-bold text-3xl">📢 성균관대 미식축구부 ROYALS 오퍼레이팅 팀 모집!</div>
-    <div class="font-bold mt-20 text-2xl">
+    <div class="font-bold text-3xl text-zinc-700">
+      📢 성균관대 미식축구부 ROYALS 오퍼레이팅 팀 모집!
+    </div>
+    <div class="font-bold mt-20 text-2xl text-zinc-700">
       당신이 그리는 가장 이상적인<br /><span class="text-amber-400">스포츠 팀</span>은 어떤가요?
     </div>
     <div class="mt-8 w-full bg-gray-100 rounded-md py-6 px-6">
-      <div class="text-lg font-bold">👑 About ROYALS 👑</div>
+      <div class="text-lg font-bold text-zinc-700">👑 About ROYALS 👑</div>
       <div class="text-base font-normal mt-1">
         성균관대학교 미식축구부 로얄스는 1957년에 창단한 대한민국 최초의 대학 미식축구 팀이며,
         2022년도에는 서울 대학리그 춘계/추계 우승 및 전국 대회 우승으로 해당 년도에 출전한 모든
@@ -19,7 +21,7 @@
     <div class="my-16">
       <hr style="border-width: 1.2px 0 0 0" />
     </div>
-    <div class="font-bold text-2xl">
+    <div class="font-bold text-2xl text-zinc-700">
       최고의 <span class="text-green-400">스펙</span>이 되어줄<br />특별한 경험들이 기다리고 있어요!
     </div>
     <div>
@@ -80,7 +82,7 @@
     <div class="my-16">
       <hr style="border-width: 1.2px 0 0 0" />
     </div>
-    <div class="font-bold text-2xl mb-8">
+    <div class="font-bold text-2xl mb-8 text-zinc-700">
       <span class="text-indigo-500">경험</span>은 없어도 괜찮아요,<br />배우고자 하는
       <span class="text-purple-500">열정</span>만 있으면 충분해요!
     </div>
@@ -101,7 +103,7 @@
     <div class="my-16">
       <hr style="border-width: 1.2px 0 0 0" />
     </div>
-    <div class="font-bold text-2xl mb-8">이러한 분이시라면 더욱 좋아요!</div>
+    <div class="font-bold text-2xl mb-8 text-zinc-700">이러한 분이시라면 더욱 좋아요!</div>
     <div class="w-full font-medium px-5 py-5 bg-gray-100 rounded-md">
       <span class="me-1">🏈</span> 미식축구라는 스포츠를 접해보고 싶으신 분
     </div>
