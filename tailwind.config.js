@@ -5,7 +5,7 @@ export default {
     extend: {
       fontFamily: {
         mono: ['NanumSquareNeo'],
-        sans: ['Pretendard']
+        sans: ['NanumSquareNeo']
       }
     }
   },
