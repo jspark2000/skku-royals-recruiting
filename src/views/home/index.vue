@@ -6,7 +6,7 @@
     <div class="flex flex-wrap gap-4 mt-10 font-semibold text-xl">
       <a
         class="w-full px-14 py-3 rounded-md text-white bg-amber-400 shadow-xl shadow-amber-400/30 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-105 duration-300"
-        @click="router.push('/operating-team')"
+        @click="router.push('/operation-team')"
       >
         🚀 operating team
       </a>

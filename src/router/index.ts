@@ -17,13 +17,13 @@ const router = createRouter({
           component: HomeView
         },
         {
-          path: '/operating-team',
-          name: 'operating-team',
+          path: '/operation-team',
+          name: 'operation-team',
           component: OperatingTeamVue
         },
         {
-          path: '/operating-team/about-us',
-          name: '/operating-team/about-us',
+          path: '/operation-team/about-us',
+          name: '/operation-team/about-us',
           component: OperatingTeamAboutUsVue
         }
       ]

@@ -13,7 +13,7 @@
       </a>
       <button
         class="px-14 py-3 rounded-md text-white bg-teal-400 shadow-xl shadow-teal-400/30 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300"
-        @click="router.push('/operating-team/about-us')"
+        @click="router.push('/operation-team/about-us')"
       >
         😚 ABOUT US
       </button>
